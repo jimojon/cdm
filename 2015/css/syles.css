@@ -1,0 +1,123 @@
+body {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+    color: #666666;
+}
+
+#header {
+    height: 100px;
+    width: 100%;
+    background-color: #e5e5e5;
+}
+
+#content {
+    padding-top: 20px;
+    padding-left: 20px;
+    float: left;
+    width: 100%;
+}
+
+.title {
+    position: absolute;
+    font-size:35px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.nom {
+    padding: 10px 10px 10px 10px;
+    width: 110px;
+    text-align: left;
+    background-color: #000000;
+    color:#ffffff;
+}
+
+.metier {
+    padding: 10px 10px 10px 10px;
+    text-align: left;
+    color:#ffffff;
+}
+
+.eleve {
+    float: left;
+    background-color: #cccccc;
+    margin: 20px;
+    width: 130px;
+    height: 130px;
+    border-radius: 10px;
+}
+
+.jonas {
+    background-color: #666666;
+}
+
+.styven {
+    background-color: #0037a6;
+}
+
+.nathan {
+    background-color: #ff0000;
+}
+
+.audrey {
+    background-color: blueviolet;
+}
+
+.mara {
+    background-color: #1dabff;
+}
+
+.caroline {
+    background-color: #6336e2;
+}
+
+.marie {
+    background-color: #ff0e36;
+}
+
+.ewen {
+    background-color: #0084a6;
+}
+
+.yunus {
+    background-color: #05bb25;
+}
+
+.gwendal {
+    background-color: #ff3900;
+    font-size: 14px;
+}
+
+.valentin {
+    background-color: #73ff61;
+}
+
+.anas {
+    background-color: #2f63a6;
+}
+
+.dark-text {
+    color: #000000;
+}
+
+.marie-roy {
+    background-color: #3661a6;
+}
+
+.fatima {
+    background-color: #1dabff;
+}
+
+.bandedes41 {
+    background-color: #2883a6;
+}
+
+.yusuf {
+    background-color: #0023a6;
+}
+
+.amhet {
+    background-color: #00bb03;
+}

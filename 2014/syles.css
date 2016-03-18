@@ -1,0 +1,130 @@
+body {
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #666666;
+}
+
+#header {
+    height: 100px;
+    width: 100%;
+    background-color: #cccccc;
+}
+
+#content {
+    float: left;
+    width: 100%;
+}
+
+#title {
+    position: absolute;
+    font-size:25px;
+    padding-left: 20px;
+    padding-top: 50px;
+}
+
+
+.nom {
+    padding: 10px 10px 0px 10px;
+    width: 110px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.metier {
+    padding: 10px 10px 10px 10px;
+    text-align: left;
+}
+
+.photo {
+    padding-left: 10px;
+}
+
+.eleve {
+    float: left;
+    background-color: #cccccc;
+    margin: 20px;
+    width: 130px;
+    height: 130px;
+}
+
+.eleve-jawad {
+     background-color: #000000;
+     color: #ffffff;
+ }
+
+.eleve-lucas {
+    background-color: #f4bb39;
+    color: #666666;
+}
+
+.eleve-jamal {
+    background-color: #05bb17;
+    color: #ffffff;
+}
+
+.eleve-leo {
+    background-color: #f9ff00;
+    color: #333333;
+}
+
+.eleve-yann {
+    background-color: #ff8a00;
+    color: #ffffff;
+}
+
+.eleve-sanca {
+    background-color: #6289ff;
+    color: #333333;
+}
+
+.eleve-mehdi {
+    background-color: #ff5000;
+    color: #ffffff;
+}
+
+.eleve-marwan {
+    background-color: #36ff5e;
+    color: #333333;
+}
+
+.eleve-leo-rest {
+    background-color: #1dabff;
+    color: #ffffff;
+}
+
+.eleve-alann {
+    background-color: #71ff3c;
+    color: #333333;
+}
+
+.eleve-gil {
+    background-color: #ff7c23;
+    color: #333333;
+}
+
+.eleve-eskandar {
+    background-color: #19faff;
+    color: #333333;
+}
+
+.eleve-leon {
+    background-color: #ff3800;
+    color: #ffffff;
+}
+
+.eleve-ewen {
+    background-color: #39dfff;
+    color: #333333;
+}
+
+.eleve-saran {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.eleve-mehdi-a {
+    background-color: #0037a6;
+    color: #ffffff;
+}
