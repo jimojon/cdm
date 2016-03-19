@@ -6,6 +6,12 @@ body {
     color: #666666;
 }
 
+a, a:hover, a:active, a:visited
+{
+    color: inherit;
+    text-decoration: inherit;
+}
+
 #header {
     height: 100px;
     width: 100%;
@@ -23,6 +29,13 @@ body {
     font-size:60px;
     padding-left: 40px;
     line-height: 100px;
+}
+
+.menu
+{
+    position: relative;
+    float: right;
+    padding: 20px;
 }
 
 .nom {
@@ -50,73 +63,4 @@ body {
 
 .jonas {
     background-color: #666666;
-}
-
-.styven {
-    background-color: #0037a6;
-}
-
-.nathan {
-    background-color: #ff0000;
-}
-
-.audrey {
-    background-color: blueviolet;
-}
-
-.mara {
-    background-color: #1dabff;
-}
-
-.caroline {
-    background-color: #6336e2;
-}
-
-.marie {
-    background-color: #ff0e36;
-}
-
-.ewen {
-    background-color: #0084a6;
-}
-
-.yunus {
-    background-color: #05bb25;
-}
-
-.gwendal {
-    background-color: #ff3900;
-    font-size: 14px;
-}
-
-.valentin {
-    background-color: #73ff61;
-}
-
-.anas {
-    background-color: #2f63a6;
-}
-
-.dark-text {
-    color: #000000;
-}
-
-.marie-roy {
-    background-color: #3661a6;
-}
-
-.fatima {
-    background-color: #1dabff;
-}
-
-.bandedes41 {
-    background-color: #2883a6;
-}
-
-.yusuf {
-    background-color: #0023a6;
-}
-
-.amhet {
-    background-color: #00bb03;
 }
