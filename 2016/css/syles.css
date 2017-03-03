@@ -31,6 +31,12 @@ a, a:hover, a:active, a:visited
     line-height: 100px;
 }
 
+.gender
+{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
 .menu
 {
     position: relative;
@@ -72,4 +78,34 @@ a, a:hover, a:active, a:visited
 }
 .justino {
     background-color: #183293;
+}
+.fatima {
+    background-color: #37be40;
+}
+.gwendoline {
+    background-color: #8230be;
+}
+.louan {
+    background-color: #2f69ff;
+}
+.franck {
+    background-color: #ffb432;
+}
+.serifcan {
+    background-color: #30dcff;
+}
+.nolwenn {
+    background-color: #37a2a9;
+}
+.esin {
+    background-color: #aa3edb;
+}
+.palwasha {
+    background-color: #3074db;
+}
+.amelie {
+    background-color: #da8adb;
+}
+.jordy {
+    background-color: #ff0000;
 }
